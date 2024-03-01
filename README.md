@@ -40,6 +40,5 @@ Follow the on-screen instructions to enter player names and play the game. After
 - Responsive design for various screen sizes.
 
 ## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the coding standards and follow the project's licensing.
-
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. 
 
